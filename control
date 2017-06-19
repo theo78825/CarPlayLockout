@@ -1,0 +1,9 @@
+Package: com.theo78825.carplaylockout
+Name: CarPlay Lockout
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disables the auto lockout that occurs when you connect your device to a CarPlay unit.
+Maintainer: theo78825
+Author: theo78825
+Section: Tweaks
